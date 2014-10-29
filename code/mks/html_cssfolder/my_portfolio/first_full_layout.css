@@ -1,0 +1,86 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #f4f2e2;
+	font-family: Josefin Sans;
+
+}
+
+.left_box {
+	width: 220px;
+	height: 800px;
+	background-color: #2E2E2E;
+	float: left;
+}
+
+#logo {
+	margin: 40px 0 0 40px;
+	width: 100px;
+}
+
+#left_nav {
+	margin: 40px 60px 0 0;
+}
+
+#left_nav ul {
+	list-style: none;
+	color: white;
+	text-align: center;
+	line-height: 2;
+}
+
+.right_box {
+	background-color: #f4f2e2;
+	float: left;
+	height: 800px;
+	
+}
+
+.header {
+	color: #7c070f;
+	margin-left: 20px;
+	width: 100%;
+}
+
+.header p {
+	float: left;
+	display: inline-block;
+	margin: 0 2px 0 4px;
+	padding: 8px 6px 2px 8px;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+}
+
+.bottom_box {
+
+}
+
+p:hover {
+	background-color: #7c070f;
+	color: #f4f2e2;
+	border-radius: 4px;
+}
+
+
+.photos {
+	width: 300px;
+  	height: auto;
+  	display: inline-block;
+
+}
+
+.photos table img {
+	width: 100%;
+  	height: auto;
+}
+
+table {
+	width: 640px;
+	height: 715px;
+	margin-left: 20px;
+}
+

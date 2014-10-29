@@ -1,0 +1,84 @@
+div {
+	background-color: #acaca7;
+	padding: 10px 20px 10px 20px;
+}
+
+
+span {
+	font-size: 30px
+}
+
+h1 {
+	font-family: Helvetica;
+	color: #4b4d42;
+	background-color: #d5d5d1;
+	padding: 15px;
+}
+
+p {
+	font-family: Helvetica;
+	margin: 0;
+	color: #d6d6d2;
+	padding: 5px;
+
+}
+
+p.first {
+    background-color: #2563a0;
+}
+
+p.second {
+	background-color: #2671ae;
+}
+
+p.third {
+	background-color: #267fb9;
+}
+
+p.fourth {
+	background-color: #368bc1;
+}
+
+p.fifth {
+	background-color: #4e9ac7;
+}
+
+p.sixth{
+	background-color: #63abd3;
+}
+
+p.seventh {
+	background-color: #7ab6d8;
+}
+
+p.eighth {
+	background-color: #289c6a;
+}
+
+p.ninth {
+	background-color: #e19ab6;
+}
+
+p.tenth {
+	background-color: #de85a7;
+}
+
+p.eleventh {
+	background-color: #db7298;
+}
+
+p.twelfth {
+	background-color: #d75e89;
+}
+
+p.thirteenth {
+	background-color: #d55077;
+}
+
+p.fourteenth {
+	background-color: #d2426d;
+}
+
+p.fifteenth {
+	background-color: #cd2b62;
+}
